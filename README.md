@@ -1,2 +1,2 @@
 # PGR110-Visual-Analytics
-## Group 5
+## Author: Jack Xia, Victor Falck, Bo Johannes, Ludvig Søgaard
